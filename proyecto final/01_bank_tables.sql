@@ -1,4 +1,4 @@
-# if bank exist in our database, so delete it.
+# if bank exist in our database, we delete it to start fresh
 DROP DATABASE IF EXISTS bank;
 
 # creation database bank
