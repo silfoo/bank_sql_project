@@ -24,7 +24,7 @@ You can find below the project's diagram using MySql Workbench.
 
 ![Diagram of bank](bank_diagram.png)
 
-The `audit` table is the only that no has connection with the rest of the tables, because the triggers will be working in this table.
+The `audit` table is the only one that no has connection with the rest of the tables, because the triggers will be working in this table.
 
 ## Creating tables
 
